@@ -3,7 +3,7 @@ $base-font: 'source-sans-pro', sans-serif;
 $heading-font: $base-font;
 $caption-font: $base-font;
 $code-font: 'source-code-pro', monospace;
-$alt-font: 'volkhov', serif;
+$alt-font: 'raleway', sans-serif;
 
 $doc-font-size: 16;
 $doc-line-height: 24;
@@ -21,13 +21,14 @@ body {
 // COLORS =====================================================
 $body-color         : #fff;
 $text-color         : #222;
-$base-color         : #343434;    
+$base-color         : #1A2632;    
 $comp-color         : spin($base-color, 180); 
 $border-color       : #ddd;
 $white              : #fff;
-$black              : #000;
+$black              : #1A2632;
 $accent-color       : $black;
 $link-color         : #222;
+$alt-color          : #C2560E;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

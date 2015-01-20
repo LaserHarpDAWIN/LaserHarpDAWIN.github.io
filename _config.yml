@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: LaserHarpDawin
+locale: fr_FR
+description: Site du projet de la harpe laser.
 logo: site-logo.png
 search: true
 url: 
@@ -32,13 +32,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: LaserHarpDAWIN
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
+  email: laserharpdawin@gmail.com
+  disqus-shortname: laserharpDAWIN
+  twitter: laserHarpDawin
   facebook: #username
-  github: #username
+  github: LaserHarpDAWIN
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

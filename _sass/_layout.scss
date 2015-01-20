@@ -196,20 +196,17 @@ body {
 }
 .entry-feature-image {
 	margin: 20px 0 0;
+	margin-top: -300px;
 	width: 100%;
-	@include media($medium) {
-		margin-top: -75px;
-	}
-	@include media($large) {
-		margin-top: -145px;
-	}
 }
 .entry-header {
 	@include fill-parent;
 }
 .entry-tags {
+	@include span-columns(12);
 	display: block;
 	margin-top: 2em;
+	text-align:center;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 600;
@@ -221,8 +218,10 @@ span + .entry-title {
 	margin-top: 0;
 }
 .entry-title {
+	@include span-columns(12);
+	box-sizing:border-box;
 	font-family: $alt-font;
-	font-style: italic;
+	text-align: center;
 	@include font-size(36,yes,36);
 	font-weight: 400;
 	line-height: 1;
@@ -233,10 +232,12 @@ span + .entry-title {
 	}
 	@include media($medium) {
 		@include font-size(52,yes,54);
-	}
+		padding:0 50px 0 50px;
 	@include media($large) {
-		@include font-size(68,yes,72);
+		padding:0 100px 0 100px;
 	}
+	}
+
 }
 .entry-wrapper {
 	@include outer-container;
@@ -248,23 +249,12 @@ span + .entry-title {
 .entry-meta {
 	@include span-columns(12);
 	text-transform: uppercase;
+	text-align:center;
 	@include font-size(14);
 	a { 
 		color: $text-color; 
 	}
-	@include media($large) {
-		@include span-columns(2.5);
-	}
-	& > span {
-		padding: 0 20px 10px 0;
-		display: inline-block;
-		@include media($large) {
-			display: block;
-			padding: 8px 0;
-			border-bottom: 1px solid lighten($black,80);
-			border-bottom: 1px solid rgba($black,.10);
-		}
-	}
+
 }
 .bio-photo {
 	display: none;
@@ -279,11 +269,16 @@ span + .entry-title {
 }
 .entry-content {
 	@include span-columns(12);
+	
+	box-sizing:border-box;
 	p:first-child {
-		margin-top: 0;
 	}
+	@include media($medium) {
+		padding:0 50px 0 50px;
+	}
+
 	@include media($large) {
-		@include span-columns(9.5);
+		padding:0 100px 0 100px;
 	}
 	p > a,
 	li > a {
