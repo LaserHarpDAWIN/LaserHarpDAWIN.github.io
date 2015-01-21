@@ -1,13 +1,7 @@
-# Site navigation links
+# Menu navigation links
 
-- title: About
-  url: /about/
+#- title: Theme Setup
+#  url: /theme-setup/
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme setup
-  url: /theme-setup/
+- title: Twitter
+  url: http://twitter.com/laserharpdawin

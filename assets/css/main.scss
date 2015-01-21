@@ -4,7 +4,7 @@ sitemap: false
 
 /*
  *
- *  So Simple
+ *  HPSTR
  *
  *  Designer: Michael Rose
  *  Twitter: http://twitter.com/mmistakes
@@ -13,17 +13,18 @@ sitemap: false
 
 // Partials
 @import "variables";
-@import "vendor/bourbon/bourbon";
-@import "grid-settings";
-@import "vendor/neat/neat";
 @import "mixins";
 @import "reset";
-@import "site";
-@import "pygments";
-@import "coderay";
-@import "elements";
-@import "forms";
-@import "layout";
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
-@import "simple-search";
+@import "vendor/responsive-nav/responsive-nav";
+@import "site";
+@import "typography";
+@import "pygments";
+@import "coderay";
+@import "gist";
+@import "grid";
+@import "elements";
+@import "animations";
+@import "dl-menu";
+@import "page";
