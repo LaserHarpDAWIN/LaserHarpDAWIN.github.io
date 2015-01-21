@@ -362,6 +362,12 @@ header .entry-meta {
 			margin-right: auto;
 		}
 	}
+	#sitemain{
+		@extend #main;
+		@media #{$large} {
+			max-width:1000px;
+		}
+	}
 	article {
 		background-color: $white;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
@@ -461,4 +467,29 @@ header .entry-meta {
 }
 #goog-wm-sb {
 	@extend .btn;
+}
+
+.latest-posts{
+	height:600px;
+	@extend article;
+	width:100%;
+	display:inline-block;
+	vertical-align: top;
+	@media #{$medium} {
+			width:46%;
+			margin-left:2%;
+		}
+	@media #{$large} {
+			width:40%;
+			margin-left:5%;
+		}
+}
+
+.twitter-container{
+	@extend .latest-posts;
+			padding:0px !important;
+}
+
+.twitter-timeline{
+	width:100%;
 }
