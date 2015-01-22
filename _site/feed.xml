@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://laserharpdawin.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io" />
-<updated>2015-01-22T11:18:21+01:00</updated>
+<updated>2015-01-22T14:41:09+01:00</updated>
 <id>http://laserharpdawin.github.io/</id>
 <author>
   <name>laserHarpDAWIN</name>
@@ -14,9 +14,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Entrée 1: Jours 1, 2 et 3]]></title>
- <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/entre-1-jour-1-2-et-3/" />
-  <id>http://laserharpdawin.github.io/journal/entre-1-jour-1-2-et-3</id>
+  <title type="html"><![CDATA[Jours 1, 2 et 3]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/jour-1-2-et-3/" />
+  <id>http://laserharpdawin.github.io/journal/jour-1-2-et-3</id>
   <published>2015-01-22T08:39:48+01:00</published>
   <updated>2015-01-22T08:39:48+01:00</updated>
   <author>
@@ -48,14 +48,14 @@
 
 &lt;p&gt;Les deux précédents jours de tests nous ont permis d’être surs de ce que nous allions réaliser, et de quoi nous allions réellement avoir besoin. Nous sommes prêts à commencer la construction de la harpe finale, dès que les composants seront livrés.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/entre-1-jour-1-2-et-3/&quot;&gt;Entrée 1: Jours 1, 2 et 3&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 22, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/jour-1-2-et-3/&quot;&gt;Jours 1, 2 et 3&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Entrée 0: Site Ouvert]]></title>
- <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/entre-0-site-ouvert/" />
-  <id>http://laserharpdawin.github.io/entre-0-site-ouvert</id>
+  <title type="html"><![CDATA[Site Ouvert]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/site-ouvert/" />
+  <id>http://laserharpdawin.github.io/site-ouvert</id>
   <published>2015-01-22T08:38:54+01:00</published>
   <updated>2015-01-22T08:38:54+01:00</updated>
   <author>
@@ -69,7 +69,7 @@
 
 &lt;p&gt;N’hésitez pas à nous suivre sur &lt;a href=&quot;https://twitter.com/laserHarpDawin&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/entre-0-site-ouvert/&quot;&gt;Entrée 0: Site Ouvert&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 22, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/site-ouvert/&quot;&gt;Site Ouvert&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
