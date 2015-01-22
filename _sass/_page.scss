@@ -470,7 +470,8 @@ header .entry-meta {
 }
 
 .latest-posts{
-	height:600px;
+	min-height:200px;
+	max-height:600px;
 	@extend article;
 	width:100%;
 	display:inline-block;

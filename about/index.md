@@ -2,32 +2,23 @@
 layout: page
 title: A propos du projet
 image:
-  feature: abstract-5.jpg
+  feature: banniere-5.jpg
+  credit: Ian Griffiths
  
 comments: false
 modified: 2014-12-24
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+## L’équipe
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Tous issus de la même formation, nous sommes trois étudiants venant de la licence professionnelle DAWIN (Développement d’Applications Web et Images Numériques). L’équipe se compose ainsi de :
 
-## What HPSTR brings to the table:
+- Thomas DUMONET
+- Enguerran HENNER
+- Julian NUNEZ LOPEZ
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+Travaillant sur un projet commun, et ayant tous les mêmes attentes de ce projet, nous n’avons défini au sein de l’équipe aucun rôle spécifique. Nous travaillons tous ensembles dans le sérieux et la bonne humeur. Nous essayons donc au maximum de partager nos expériences de développement au sein de ce projet. Personne ne doit être lésé, et ne pas comprendre ce que les autres font.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+## Description projet
 
-[^1]: Example: *domain.com/category-name/post-title*
+Le projet est de reconstruire une harpe laser à base d’Arduino. Ce projet nécessite des compétences aussi bien en développement qu’en électronique, car en effet la harpe n’est pas fourni, nous devons nous même la construire. Il nous faut ainsi réfléchir aux composants dont nous avons besoin, penser à comment les faire fonctionner ensemble, tout en gardant à l’esprit certaines règles élémentaires de l’électronique tel la loi des Ohm par exemple.
