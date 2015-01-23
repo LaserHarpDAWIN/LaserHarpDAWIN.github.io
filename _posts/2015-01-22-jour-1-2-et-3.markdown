@@ -3,7 +3,7 @@ layout: post
 title: "Jours 1, 2 et 3"
 modified:
 categories: journal
-description:
+description: "Résumé des jours 1, 2 et 3"
 tags: [projetDAWIN, arduino, github]
 image:
   feature: banniere-6.jpg

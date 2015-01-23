@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Jours 4 & 5"
+categories: journal
+description: "Résumé des jours 4 et 5 du projet"
+tags: [journal, processing, arduino]
+image:
+  feature: banniere-8.jpg
+  thumb: thumb-8.jpg
+comments: true
+share: true
+date: 2015-01-23T15:10:55+01:00
+---
+# Fin de semaine 1
+
+## Jour 4
+    
+Nous devions recevoir les pièces manquantes aujourd'hui mais ce ne fut pas la cas ce qui retarde considérablement notre avancement bloquant tout test de branchement. Nous avons cependant pu continuer à travailler. Nous avons en effet réalisé divers tests de code reliant l’Arduino à du code Processing. Nous comprenons maintenant comment envoyer des informations ou en recevoir, depuis l’Arduino ou depuis l’interface Processing.
+
+Nous avons donc été capables de, par exemple, faire clignoter le laser lors du clic sur un bouton dans une interface. Processing utilisant le langage Java de base, c’est une technologie avec laquelle nous sommes tous assez à l’aise. Nous savons à présent que travailler sur cette partie ne devrait pas poser trop de soucis.
+
+## Jour 5
+
+24 heures plus tard et nous n’avons toujours pas reçu les composants manquants, nous n’avons donc pas pu travailler sur la partie électronique. Ainsi, notre travail a été considérablement ralenti. En effet, même en essayant, nos tests ne sont pas réalistes car nous ne pouvons pas interagir avec des composants que l’on ne peut pas brancher.
+
+Nous avons cependant pu utiliser le temps ainsi alloué pour se renseigner et tester les différentes librairies de processing dont nous pourrions avoir besoin. Nous sommes donc maintenant capables de recréer un piano, uniquement en interface graphique. Il suffira de changer la gestion grâce au laser, et non plus grâce à un clavier. Mais une fois que nous aurons reçu les pièces ...
