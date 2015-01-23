@@ -5,6 +5,7 @@ description: "Document présentant les différentes parties du projet"
 tags: [pdf, link, document]
 categories: journal
 comments: true
+share : true
 image: 
   feature: banniere-3.jpg
   thumb: thumb-3.jpg

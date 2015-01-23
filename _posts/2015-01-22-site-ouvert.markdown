@@ -11,7 +11,7 @@ image:
   credit:
   creditlink:
 comments: false
-share:
+share: true
 date: 2015-01-22T08:38:54+01:00
 ---
 # Site ouvert !!!
