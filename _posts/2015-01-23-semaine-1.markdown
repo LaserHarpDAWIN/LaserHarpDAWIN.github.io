@@ -16,7 +16,7 @@ date: 2015-01-23T15:10:55+01:00
 
 ## Comptes rendus
 
-* [Jours 1,2 et 3](/journal/jour-1-2-et-3)
+* [Jours 1, 2 et 3](/journal/jour-1-2-et-3)
 * [Jours 4 et 5](/journal/jours-4and5)
 
 ## Bilan de l'avancement
@@ -33,7 +33,7 @@ Le tableau ci-dessous récapitule les tâches que nous avons pu effectuer durant
 | **Interface Midi**|  . |  .   |  .  |
 {: rules="groups"}
 
-Le tableau ci-dessous représente les composants que nous avons pu tester au niveau du code par rapport à leurs implémentation finale.
+Le tableau ci-dessous représente les implémentations de code (correspondants à peu près au code final) que nous avons pu tester, par composants et par logiciels.
 
 | Code    | Testé   | Arduino  | Processing |
 |:--------|:-------:|:--------:|:--------:|
