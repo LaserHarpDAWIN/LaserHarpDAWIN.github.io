@@ -3,6 +3,7 @@ layout: post
 title: "Document de présentation du projet"
 description: "Document présentant les différentes parties du projet"
 tags: [pdf, link, document]
+categories: journal
 comments: true
 image: 
   feature: banniere-3.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Site Ouvert"
 modified:
-categories: 
+categories: journal
 description:
 tags: [Jekyll, github-pages]
 image:
