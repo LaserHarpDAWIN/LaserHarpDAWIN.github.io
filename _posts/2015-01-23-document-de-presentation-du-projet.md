@@ -4,7 +4,7 @@ title: "Document de présentation du projet"
 description: "Document présentant les différentes parties du projet"
 tags: [pdf, link, document]
 categories: journal
-comments: true
+comments: false
 share : true
 image: 
   feature: banniere-3.jpg
