@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Bilan Semaine 1"
+categories: journal
+description: "Bilan de la première semaine"
+tags: [journal, semaine]
+image:
+  feature: banniere-8.jpg
+  thumb: thumb-8.jpg
+comments: true
+share: true
+date: 2015-01-23T15:10:55+01:00
+---
+# Bilan de la semaine 1
+
+
+## Comptes rendus
+
+* [Jours 1,2 et 3](/journal/jour-1-2-et-3)
+* [Jours 4 et 5](/journal/jours-4and5)
+
+## Bilan de l'avancement
+
+Le tableau ci-dessous récapitule les tâches que nous avons pu effectuer durant cette première semaine de projet au niveau de l'électronique (branchements, tests, etc..).
+
+| Electronique | Disponible | Testé | Maitrisé |
+|:--------|:-------:|:--------:|:--------:|
+| **Arduino**      | Ok   |Ok      | Ok   |
+| **Laser**        | Ok   |Ok      | En cours |
+| **Capteurs**     | Ok   |En cours      |  .  |
+| **Moteur**       | Ok   |  .   |  .  |
+| **Carte Midi**   | Ok   |  .   |   . |
+| **Interface Midi**|  . |  .   |  .  |
+{: rules="groups"}
+
+Le tableau ci-dessous représente les composants que nous avons pu tester au niveau du code par rapport à leurs implémentation finale.
+
+| Code    | Testé   | Arduino  | Processing |
+|:--------|:-------:|:--------:|:--------:|
+| **Laser**      | Ok   |Ok  | Ok         |
+| **Capteurs**     | Ok   |Ok      |  .  |
+| **Moteur**       |  .  |  .   |  .  |
+| **Carte Midi**   |  .  |  .   |  .  |
+{: rules="groups"}
