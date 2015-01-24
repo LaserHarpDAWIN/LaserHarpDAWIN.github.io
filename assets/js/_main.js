@@ -46,4 +46,10 @@ $(document).ready(function() {
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+
+  $(document).scroll(function() {
+    console.log($(document).scrollTop());
+    var scroll = ($(document).scrollTop())/1.618033988755;
+    $('.entry-image').css('top', scroll);
+});
 });
