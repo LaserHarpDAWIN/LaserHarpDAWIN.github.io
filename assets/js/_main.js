@@ -49,7 +49,7 @@ $(document).ready(function() {
 
   $(document).scroll(function() {
     console.log($(document).scrollTop());
-    var scroll = ($(document).scrollTop())/1.618033988755;
+    var scroll = ($(document).scrollTop())/1.2;
     $('.entry-image').css('top', scroll);
 });
 });
