@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Jours 6, 7 et 8"
+categories: journal
+description: Résumé des jours 6, 7 et 8
+tags: [projetDAWIN]
+image:
+  feature: banniere-9.jpg
+  thumb: thumbs-9.jpg
+comments: true
+share: true
+date: 2015-01-28T10:59:01+01:00
+---
+
+# Semaine 2
+
+## Jour 6
+
+Lundi nous sommes restés limités à la partie logicielle n’ayant toujours pas reçu les composants manquants.
+Nous avons pu nous pencher sur le développement de l’interface de contrôle à l’aide de la librairie “processing” de manière à permettre à l’utilisateur de paramétrer le son de la harpe laser à sa guise.
+Sachant que nous avons ajouté un séquenceur dans l’interface donnant la possibilité de créer un accompagnement.
+
+## Jour 7
+
+Mardi nous avons enfin reçu les composants qu’il manquait pour avancer sur la partie électronique. Nous avons donc pu focaliser notre concentration sur cette partie.
+Grâce aux nouvelles connectiques nous avons fait fonctionner le moteur en passant par son driver ce qui a permis dans un premier temps de comprendre son fonctionnement. 
+Puis, dans un second temps, nous avons pu découvrir une nouvelle problématique qui est d’initialiser la position de l’axe du moteur, de manière à la connaître pour la partie développement. 
+On doit aussi trouver un moyen de fixer le laser nous avons donc pensé à confectionner un socle.
+
+## Jour 8
+
+Mercredi nous avons récupéré une boite de Lego pour faire notre socle. Les Lego s'avèrent être le matériel le plus simple et rapide pour confectionner un socle permettant de fixer nos composants a différents emplacements dans des positions fixes.
+Nous avons pu disposer nos différents composants sur une base en Lego et fixer un miroir sur l’axe du moteur pour réfléchir le laser qui est fixé en sa direction. 
+Par la suite, nous avons donc pu progresser fortement sur la partie électronique. Notamment, nous positionnons les lasers grâce à une butée (fabriquée à l'aide d'un capteur) permettant de définir la position initiale du moteur.
