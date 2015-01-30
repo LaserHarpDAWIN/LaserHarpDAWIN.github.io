@@ -8,7 +8,6 @@ image:
   feature:
   credit:
   creditlink:
-  background: triangular.png
 comments: true
 share: true
 date: 2015-01-29T10:59:01+01:00

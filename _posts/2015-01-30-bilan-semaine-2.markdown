@@ -9,7 +9,6 @@ image:
   feature:
   credit:
   creditlink:
-  background : lodyas.png
 comments:
 share:
 date: 2015-01-30T16:21:25+01:00
@@ -35,7 +34,7 @@ Le tableau ci-dessous récapitule les tâches que nous avons pu effectuer durant
 | **Capteurs**     | Ok   |Ok      |  Ok  |
 | **Moteur**       | Ok   |  Ok   |  En cours  |
 | **Carte Midi**   | Ok   |  .   |   . |
-| **Interface Midi**     |  . |  .   |  .  |
+| **Interface Midi**     |  Ok |  .   |  .  |
 | **Interface graphique**| Ok |  Ok |  Ok  |
 {: rules="groups"}
 
