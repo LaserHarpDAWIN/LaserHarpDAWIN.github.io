@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Jours 9 & 10"
+modified:
+categories: journal
+description: "Résumé des jours 9 et 10 de travail"
+tags: [journal]
+image:
+  feature:
+  credit:
+  creditlink:
+  background: triangular.png
+comments: true
+share: true
+date: 2015-01-30T16:20:17+01:00
+---
+# Fin Semaine 2
+
+## Jour 9
+
+Jeudi nous avons travaillé sur la coupe du laser. Lorsque l’on coupe un laser nous voulons jouer une note. Nous avons donc placé un capteur de lumière, orienté vers le haut, afin de récupérer les hausses de lumières créées par un laser sectionné. Ensuite pour jouer une note différente suivant le rayon coupé grâce à la position du moteur au moment de la coupure.
+
+Nous avons pu retravailler l'interface pour y ajouter un plus large choix de notes pour les différents rayons de notre harpe. Nous avons également retravaillé le séquenceur pour pouvoir y mettre des sons de percussions permettant simplement de mettre en place une base rythmique personnalisée afin d’accompagner la mélodie jouée avec les lasers. Pour finir nous avons intégré le code qui joue les notes de musiques à notre interface.
+
+Nous avons aussi apporté quelques modifications à notre socle de manière à fixer quelques composants car nous sommes maintenant sûrs de leurs positions. Mais nous avons aussi ajouté deux LED qui s’éteignent pour informer de la fin de la calibration du moteur et ensuite du capteur de luminosité.
+
+
+## Jour 10
+
+Vendredi nous nous sommes concentrés sur la réalisation d’une vidéo de présentation du projet et de sa confection. On a donc essentiellement pris des vidéos et fait un travail de montage à l’aide d’AfterEffects. 
+
+Nous avons pu mettre au point un schéma complet de notre montage actuel. Sur ce dernier apparaissent : l’Arduino, la breadboard (utilisé pour connecter les petits composants entre eux), le moteur, les deux capteurs de luminosité et les deux LED d’étalonnage. Ce montage devrait être le câblage final de notre harpe laser. 
+
+Nous n’avons donc pas encore utilisé la carte MIDI que nous avions à notre disposition puisque le son est généré directement depuis notre programme à l’aide de processing.
+
+Enfin nous avons pu faire des tests avec de la fumé pour voir le rendu réel des rayons laser ce qui nous a permis de remarquer que la fréquence de clignotement du laser ou rotations du moteur est trop faible pour vraiment enchaîner des notes avec fluidité.

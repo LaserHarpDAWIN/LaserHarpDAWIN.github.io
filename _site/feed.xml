@@ -4,13 +4,221 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://laserharpdawin.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io" />
-<updated>2015-01-28T17:41:21+01:00</updated>
+<updated>2015-01-30T16:30:12+01:00</updated>
 <id>http://laserharpdawin.github.io/</id>
 <author>
   <name>laserHarpDAWIN</name>
   <uri>http://laserharpdawin.github.io/</uri>
   <email>laserharpdawin@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Bilan Semaine 2]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/bilan-semaine-2/" />
+  <id>http://laserharpdawin.github.io/journal/bilan-semaine-2</id>
+  <published>2015-01-30T16:21:25+01:00</published>
+  <updated>2015-01-30T16:21:25+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;bilan-de-la-semaine-2&quot;&gt; Bilan de la semaine 2&lt;/h1&gt;
+
+&lt;h2 id=&quot;comptes-rendus&quot;&gt;Comptes rendus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/journal/jours-6-7-8&quot;&gt;Jours 6, 7 et 8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/journal/jours-9-and-10&quot;&gt;Jours 9 et 10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/journal/developpement-agile&quot;&gt;Passage au développement agile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bilan-de-lavancement&quot;&gt;Bilan de l’avancement&lt;/h2&gt;
+
+&lt;p&gt;Le tableau ci-dessous récapitule les tâches que nous avons pu effectuer durant cette première semaine de projet au niveau de l’électronique (branchements, tests, etc..).&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Electronique&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Disponible&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Testé&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Maitrisé&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Arduino&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Laser&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Capteurs&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Moteur&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;En cours&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Carte Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Interface Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Interface graphique&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Le tableau ci-dessous représente les implémentations de code (correspondants à peu près au code final) que nous avons pu tester, par composants et par logiciels.&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Code&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Testé&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Arduino&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Processing&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Laser&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Capteurs&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Moteur&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Carte Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/bilan-semaine-2/&quot;&gt;Bilan Semaine 2&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Jours 9 & 10]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/jours-9-and-10/" />
+  <id>http://laserharpdawin.github.io/journal/jours-9-and-10</id>
+  <published>2015-01-30T16:20:17+01:00</published>
+  <updated>2015-01-30T16:20:17+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;fin-semaine-2&quot;&gt;Fin Semaine 2&lt;/h1&gt;
+
+&lt;h2 id=&quot;jour-9&quot;&gt;Jour 9&lt;/h2&gt;
+
+&lt;p&gt;Jeudi nous avons travaillé sur la coupe du laser. Lorsque l’on coupe un laser nous voulons jouer une note. Nous avons donc placé un capteur de lumière, orienté vers le haut, afin de récupérer les hausses de lumières créées par un laser sectionné. Ensuite pour jouer une note différente suivant le rayon coupé grâce à la position du moteur au moment de la coupure.&lt;/p&gt;
+
+&lt;p&gt;Nous avons pu retravailler l’interface pour y ajouter un plus large choix de notes pour les différents rayons de notre harpe. Nous avons également retravaillé le séquenceur pour pouvoir y mettre des sons de percussions permettant simplement de mettre en place une base rythmique personnalisée afin d’accompagner la mélodie jouée avec les lasers. Pour finir nous avons intégré le code qui joue les notes de musiques à notre interface.&lt;/p&gt;
+
+&lt;p&gt;Nous avons aussi apporté quelques modifications à notre socle de manière à fixer quelques composants car nous sommes maintenant sûrs de leurs positions. Mais nous avons aussi ajouté deux LED qui s’éteignent pour informer de la fin de la calibration du moteur et ensuite du capteur de luminosité.&lt;/p&gt;
+
+&lt;h2 id=&quot;jour-10&quot;&gt;Jour 10&lt;/h2&gt;
+
+&lt;p&gt;Vendredi nous nous sommes concentrés sur la réalisation d’une vidéo de présentation du projet et de sa confection. On a donc essentiellement pris des vidéos et fait un travail de montage à l’aide d’AfterEffects. &lt;/p&gt;
+
+&lt;p&gt;Nous avons pu mettre au point un schéma complet de notre montage actuel. Sur ce dernier apparaissent : l’Arduino, la breadboard (utilisé pour connecter les petits composants entre eux), le moteur, les deux capteurs de luminosité et les deux LED d’étalonnage. Ce montage devrait être le câblage final de notre harpe laser. &lt;/p&gt;
+
+&lt;p&gt;Nous n’avons donc pas encore utilisé la carte MIDI que nous avions à notre disposition puisque le son est généré directement depuis notre programme à l’aide de processing.&lt;/p&gt;
+
+&lt;p&gt;Enfin nous avons pu faire des tests avec de la fumé pour voir le rendu réel des rayons laser ce qui nous a permis de remarquer que la fréquence de clignotement du laser ou rotations du moteur est trop faible pour vraiment enchaîner des notes avec fluidité.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/jours-9-and-10/&quot;&gt;Jours 9 & 10&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Développement Agile]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/developpement-agile/" />
+  <id>http://laserharpdawin.github.io/journal/developpement-agile</id>
+  <published>2015-01-29T10:59:01+01:00</published>
+  <updated>2015-01-29T10:59:01+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;passage-au-dveloppement-agile&quot;&gt;Passage au développement agile&lt;/h1&gt;
+
+&lt;p&gt;Suivant les conseils de notre enseignante Christine UNY, nous avons décidé de continuer le projet avec une réelle méthodologie de gestion de projet. C’est pourquoi pour la suite du projet nous avons décider d’adopter une approche agile.&lt;/p&gt;
+
+&lt;h2 id=&quot;ques-ce-que-le-dveloppement-agile-&quot;&gt; Qu’es-ce que le développement agile ?&lt;/h2&gt;
+
+&lt;p&gt;Le développement agile peut prendre beaucoup de forme, et le manifeste suivant retranscris assez bien les bases fondamentale de cette approche :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;manifeste-pour-le-dveloppement-agile-de-logiciels&quot;&gt;Manifeste pour le développement Agile de logiciels&lt;/h3&gt;
+  &lt;p&gt;Nous découvrons comment mieux développer des logiciels
+par la pratique et en aidant les autres à le faire.&lt;/p&gt;
+
+  &lt;p&gt;Ces expériences nous ont amenés à valoriser :
+* &lt;strong&gt;Les individus et leurs interactions&lt;/strong&gt; plus que les processus et les outils
+* &lt;strong&gt;Des logiciels opérationnels&lt;/strong&gt; plus qu’une documentation exhaustive
+* &lt;strong&gt;La collaboration avec les clients&lt;/strong&gt; plus que la négociation contractuelle
+* &lt;strong&gt;L’adaptation au changement&lt;/strong&gt; plus que le suivi d’un plan&lt;/p&gt;
+
+  &lt;p&gt;Nous reconnaissons la valeur des seconds éléments,
+mais privilégions les premiers.&lt;/p&gt;
+
+  &lt;p&gt;– &lt;a href=&quot;http://www.agilemanifesto.org/iso/fr/&quot;&gt;agilemanifesto.org&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;pourquoi-adopter-cette-mthodologie-&quot;&gt; Pourquoi adopter cette méthodologie ?&lt;/h2&gt;
+
+&lt;p&gt;Au début du projet nous avons été confronté à de nombreux imprévus et avons souvent été bloqués dans notre avancement à cause d’un manque de matériel. Nous aurions pu éviter certains de ces bloquages grâce à une meilleure identification des tâches dès le départ et grâce à l’implémentation d’une approche agile sur ce projet.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-mthode-agile-au-sein-de-notre-projet&quot;&gt; La méthode agile au sein de notre projet.&lt;/h2&gt;
+
+&lt;p&gt;Pour intégrer la méthode agile dans notre projet, nous avons d’abord procédé à l’identification du travail restant et l’avons séparé en différentes petites tâches aux minimum contraintes les unes entre les autres.&lt;/p&gt;
+
+&lt;p&gt;Ce travail peut être retrouvé dans notre &lt;a href=&quot;https://trello.com/b/hdhgebq0/harpe-laser-dawin&quot;&gt;Kanban Board&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/developpement-agile/&quot;&gt;Développement Agile&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
