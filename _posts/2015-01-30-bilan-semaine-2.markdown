@@ -9,6 +9,7 @@ image:
   feature:
   credit:
   creditlink:
+  background : triangular.png
 comments:
 share:
 date: 2015-01-30T16:21:25+01:00
