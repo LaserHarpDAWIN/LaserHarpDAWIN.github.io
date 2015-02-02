@@ -18,7 +18,7 @@ date: 2015-01-29T10:59:01+01:00
 
 Suivant les conseils de notre enseignante Christine UNY, nous avons décidé de continuer le projet avec une réelle méthodologie de gestion de projet. C'est pourquoi pour la suite du projet nous avons décider d'adopter une approche agile.
 
-## Qu'es-ce que le développement agile ?
+## Qu'est-ce que le développement agile ?
 
 Le développement agile peut prendre beaucoup de forme, et le manifeste suivant retranscris assez bien les bases fondamentale de cette approche :
 
