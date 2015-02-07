@@ -4,13 +4,182 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://laserharpdawin.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io" />
-<updated>2015-02-02T09:55:06+01:00</updated>
+<updated>2015-02-07T21:50:11+01:00</updated>
 <id>http://laserharpdawin.github.io/</id>
 <author>
   <name>laserHarpDAWIN</name>
   <uri>http://laserharpdawin.github.io/</uri>
   <email>laserharpdawin@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Bilan Semaine 3]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/journal/bilan-semaine-3/" />
+  <id>http://laserharpdawin.github.io/journal/bilan-semaine-3</id>
+  <published>2015-02-06T17:50:25+01:00</published>
+  <updated>2015-02-06T17:50:25+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;compte-rendu-semaine-3&quot;&gt;Compte rendu semaine 3&lt;/h1&gt;
+
+&lt;p&gt;Cette semaine a été dédiée en très grande partie au design. Nous avons tous participés et collaborés à la création à la fois d’un poster de présentation, et d’un livret d’utilisation. Le livret d’utilisation sera utilisé pour les personnes souhaitant reprendre le projet ou se baser sur celui ci pour en créer un meilleur. Nous y avons détaillé toutes les étapes pour utiliser correctement la Harpe Laser, mais également des étapes permettant de la reconstruire si jamais celle ci est démontée.&lt;/p&gt;
+
+&lt;p&gt;Nous avons également fait quelques tests concernant l’intégration d’un module MIDI à l’Arduino, mais rien de concluant. En effet, en branchant la plaque MIDI, nous nous sommes rendus compte que le moteur ne fonctionnait plus, sans doute car il ne recevait plus assez d’électricité. Impossible de l’alimenter différemment. Nous n’avons à priori vu aucune modification pour le laser, mais nous pensons qu’il pourrait avoir quelques soucis de fonctionnement.&lt;/p&gt;
+
+&lt;p&gt;De plus, passer par une interface MIDI aurait, selon nous, grandement compliqué l’application car l’installation d’un logiciel permettant de gérer le son MIDI est plus compliqué que l’utilisation de Processing. Nous avons également simplifié l’utilisation de notre programme Processing car il suffit maintenant de lancer une application pour l’utiliser, plus besoin de copier/coller le code, etc…&lt;/p&gt;
+
+&lt;h1 id=&quot;documents-de-la-semaine&quot;&gt;Documents de la semaine&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/livret-utilisation&quot;&gt;Livret d’utilisation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/affiche-du-projet&quot;&gt;Affiche du projet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bilan-de-lavancement&quot;&gt;Bilan de l’avancement&lt;/h1&gt;
+&lt;p&gt;Le tableau ci-dessous récapitule les tâches que nous avons pu effectuer durant cette première semaine de projet au niveau de l’électronique (branchements, tests, etc..).&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Electronique&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Disponible&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Testé&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Maitrisé&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Arduino&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Laser&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Capteurs&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Moteur&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;En cours&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Carte Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Interface Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Interface graphique&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Le tableau ci-dessous représente les implémentations de code (correspondants à peu près au code final) que nous avons pu tester, par composants et par logiciels.&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Code&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Testé&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Arduino&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Processing&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Laser&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Capteurs&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Moteur&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ok&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Carte Midi&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;En cours&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/journal/bilan-semaine-3/&quot;&gt;Bilan Semaine 3&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on February 06, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Livret d'utilisation]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/livret-utilisation/" />
+  <id>http://laserharpdawin.github.io/livret-utilisation</id>
+  <published>2015-02-06T00:00:00+01:00</published>
+  <updated>2015-02-06T00:00:00+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;livret&quot;&gt; Livret&lt;/h1&gt;
+
+&lt;p&gt;Ce document est le livret permettant aux utilisateurs d’installer et d’utiliser la harpe.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;/assets/livret-utilisation.pdf&quot; class=&quot;btn&quot;&gt;Ouvrir le document&lt;/a&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/livret-utilisation/&quot;&gt;Livret d'utilisation&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on February 06, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Affiche du projet]]></title>
+ <link rel="alternate" type="text/html" href="http://laserharpdawin.github.io/affiche-du-projet/" />
+  <id>http://laserharpdawin.github.io/affiche-du-projet</id>
+  <published>2015-02-06T00:00:00+01:00</published>
+  <updated>2015-02-06T00:00:00+01:00</updated>
+  <author>
+    <name>laserHarpDAWIN</name>
+    <uri>http://laserharpdawin.github.io</uri>
+    <email>laserharpdawin@gmail.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;affiche-de-prsentation-du-projet&quot;&gt; Affiche de présentation du projet&lt;/h1&gt;
+
+&lt;p&gt;Cette affiche sers à présenter le projet dans son ensemble&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;/assets/affiche-du-projet.pdf&quot; class=&quot;btn&quot;&gt;Ouvrir le document&lt;/a&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://laserharpdawin.github.io/affiche-du-projet/&quot;&gt;Affiche du projet&lt;/a&gt; was originally published by laserHarpDAWIN at &lt;a href=&quot;http://laserharpdawin.github.io&quot;&gt;Harpe laser DAWIN&lt;/a&gt; on February 06, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
